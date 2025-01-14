@@ -3,7 +3,7 @@
 ....sdfasfsdf
 
 ## Use-Cases Diagram
-![Example Image](USE CASE.drawio.png)
+![Example Image](UseCase.png)
 
 ## User Stories
 
