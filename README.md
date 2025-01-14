@@ -2,8 +2,8 @@
 
 ....sdfasfsdf
 
-## Use-Cases
-![Example Image](USE CASE.drawio)
+## Use-Cases Diagram
+![Example Image](USE CASE.drawio.png)
 
 ## User Stories
 
