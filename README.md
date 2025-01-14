@@ -1,4 +1,11 @@
-# User Stories
+# Notenverwaltungssystem
+
+....sdfasfsdf
+
+## Use-Cases Diagram
+![Example Image](USE CASE.drawio.png)
+
+## User Stories
 
 1. **As a user**, I want to see my grades so that I can act in time.
 2. **As a user**, I want to reject my grade so that I can discuss them with my teacher.
